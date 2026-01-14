@@ -23,13 +23,13 @@ Load your prepared dataset into Power BI.
 5. Create Initial Visualizations:
 Start by creating basic visualizations to understand the data.
 Use different chart types like bar charts, line charts, pie charts, and scatter plots to visualize various aspects of the data.
-  ## Finding Answers for the following Questions. 
+## Finding Answers for the following Questions. 
 1. What days and times do we tend to be busiest?
 2. How many pizzas are we making during peak periods?
 3. What are our best and worst-selling pizzas?
 4. What's our average order value?
 5. How well are we utilizing our seating capacity?
-   ## Insights by using Sql 
+## Insights by using SQL 
   1 Total revenue
     817860.05
   2 Avg_order_value 
@@ -44,9 +44,9 @@ Use different chart types like bar charts, line charts, pie charts, and scatter 
      2.32
   8. Category-wise percentage sales 
   9. pizza size-wise percentage sales
-  ## Power Bi Dashboard for pizza sales report
-  ## summary Power BI
-  ## Pizza Sales Summary Report
+## Power Bi Dashboard for pizza sales report
+## summary Power BI
+## Pizza Sales Summary Report
    * Overall Performance
      Total Revenue: ₹817.86K
      Total Pizzas Sold: 50,000
