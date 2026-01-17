@@ -90,5 +90,11 @@ XL & XXL: <3% combined
 Sales by Order Hour
 Peak hours: 12 PM – 7 PM
 Highest sales around: 12–1 PM and 6–7 PM
+
+Visualization images in Microsoft power bi file
+![image alt](https://github.com/shwetachavan555/Pizza-Sales-Dashboard/blob/a241d7165ced2844ce2315b8954f1a95c1f8f0c6/Screenshot%202026-01-17%20100259.png)
+![image alt](https://github.com/shwetachavan555/Pizza-Sales-Dashboard/blob/a241d7165ced2844ce2315b8954f1a95c1f8f0c6/Screenshot%202026-01-17%20100747.png)
+![image alt](https://github.com/shwetachavan555/Pizza-Sales-Dashboard/blob/a241d7165ced2844ce2315b8954f1a95c1f8f0c6/Screenshot%202026-01-17%20100346.png)
+
 Very low sales in the early morning hours
 Lunch and dinner hours drive maximum revenue.
