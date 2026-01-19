@@ -47,7 +47,7 @@ Use different chart types like bar charts, line charts, pie charts, and scatter 
      2.32
   8. Category-wise percentage sales 
   9. pizza size-wise percentage sales
-## Power Bi Dashboard for pizza sales report
+## Power Bi Dashboard for pizza sales report [visit link](https://github.com/shwetachavan555/Pizza-Sales-Dashboard/blob/736799a2fed8f83aedfe8162f09635e6c7be5dca/Report%20on%20pizza%20sales.pbix)
 ## summary Power BI
 ## Pizza Sales Summary Report
    * Overall Performance
