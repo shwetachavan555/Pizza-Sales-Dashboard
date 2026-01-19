@@ -1,6 +1,9 @@
 # Pizza-Sales-Dashboard
 ## Objective: To analyze pizza sales revenue, identify trends, and provide insights to improve sales.
 We can analyze the data and put together a report to help us find opportunities to drive more sales and work more efficiently.
+# Technology used
+  SQL, Power Bi 
+
 ## Project Workflow: Pizza Sales Analysis
 
 1. Define the Scope and Objective:
